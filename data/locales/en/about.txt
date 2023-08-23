@@ -1,0 +1,20 @@
+Game: Dark Podval
+
+In one city, in an abandoned house that you wandered into by accident, there is a mysterious staircase leading down into the terrible darkness. In spite of your common sense and reason, You began to descend...
+________________________________
+
+Version: 0.3
+Developers: Association "Xa6e6y"
+(Hatscker and Madentist)
+VK group: https://vk.com/habebu
+________________________________
+
+Control key:
+
+Control - WASD or arrows on the keyboard
+E	-	read "Mysterious Inscriptions"
+E	-	charge; activate the gun
+R	-	rotate the gun
+Z	-	pick up items
+E	-	lever switching
+ESC	-	pause
